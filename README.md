@@ -1,5 +1,7 @@
 ### Olá, meu nome é Luísa Gonçalves.
 
+Atualmente estudo Sistemas para Internet, no Instituto Federal de Brasília e busco aprender o desenvolvimento Front-end com as linguagens HTML, CSS e Javascript. 
+
 ### Bem-vindo(a) ao meu perfil Github!
 
 <div>
