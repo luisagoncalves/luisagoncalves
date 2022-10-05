@@ -1,6 +1,6 @@
 ### Olá, meu nome é Luísa Gonçalves. Bem-vindo(a) ao meu perfil Github!
 
-Atualmente estudo Sistemas para Internet, no Instituto Federal de Brasília e busco aprender o desenvolvimento back-end com a linguagem C# na plataforma .NET 6.0.
+Atualmente estudo Sistemas para Internet, no Instituto Federal de Brasília e busco aprender o desenvolvimento web tanto no Front-End(HTML, CSS e JavaScript), como no Back-End(C#, .NET).
 
 ### Contato
 
