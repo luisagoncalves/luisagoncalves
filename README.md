@@ -1,9 +1,12 @@
-### Olá, meu nome é Luísa Gonçalves. Bem-vindo(a) ao meu perfil Github!
+### Olá, eu sou a Luísa Gonçalves. Bem-vindo(a) ao meu perfil no Github!
 
-Atualmente estudo Sistemas para Internet, no Instituto Federal de Brasília e busco aprender o desenvolvimento web no Back-End com a linguagem C#.
+Sou estudante de Sistemas para Internet no Instituto Federal de Brasília. Apaixonada por desenvolvimento back-end, concentro meus estudos na linguagem Java, com o framework Quarkus. Tenho experiência profissional e projetos pessoais com tecnologias como Keycloak, Docker e PostgreSQL. 
 
 ### Contato
-
+Estou disponível para contato nas seguintes plataformas: 
 <div>
-  <a href="https://www.linkedin.com/in/luisagoncalvess" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://wa.me/5561994193151" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a> 
+  <a href="luiolg20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/luisagoncalvess" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
