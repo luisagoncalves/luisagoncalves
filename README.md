@@ -1,6 +1,6 @@
 ### Olá, eu sou a Luísa Gonçalves. Bem-vindo(a) ao meu perfil no Github!
 
-Sou estudante de Sistemas para Internet no Instituto Federal de Brasília. Apaixonada por desenvolvimento back-end, concentro meus estudos na linguagem Java, com o framework Quarkus. Tenho experiência profissional e projetos pessoais com tecnologias como Keycloak, Docker e PostgreSQL. 
+Sou estudante de Sistemas para Internet no Instituto Federal de Brasília. Apaixonada por desenvolvimento back-end, concentro meus estudos na linguagem Java, com o framework Spring Boot. 
 
 ### Contato
 Estou disponível para contato nas seguintes plataformas: 
