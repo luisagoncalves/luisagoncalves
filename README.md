@@ -1,6 +1,6 @@
 ### Olá, eu sou a Luísa Gonçalves. Bem-vindo(a) ao meu perfil no Github!
 
-Sou estudante de Sistemas para Internet no Instituto Federal de Brasília. Focada no desenvolvimento back-end, concentro meus estudos na linguagem Java, com o framework Spring Boot. 
+Focada no desenvolvimento full stack, com as linguagens Java, Typescript, HTML, CSS e Javascript e os frameworks Spring Boot e Vue.js. 
 
 ### Contato
 Você pode entrar em contato comigo pelos meios abaixo: 
