@@ -1,6 +1,6 @@
 ### Olá, eu sou a Luísa Gonçalves. Bem-vindo(a) ao meu perfil no Github!
 
-Focada no desenvolvimento full stack, com as linguagens Java, Typescript, HTML, CSS e Javascript e os frameworks Spring Boot e Vue.js. 
+Focada no desenvolvimento full stack, com as linguagens Java, PHP, Typescript, HTML, CSS e Javascript e os frameworks Spring Boot e Vue.js. 
 
 ### Contato
 Você pode entrar em contato comigo pelos meios abaixo: 
